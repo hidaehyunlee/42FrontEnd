@@ -1,6 +1,6 @@
-const btn = document.querySelector('#btn');
+const form = document.querySelector('#form');
 
-btn.addEventListener('enter', () => {
+form.addEventListener('submit', (e) => {
 	const word = document.querySelector('#word').textContent;
 	const input = document.querySelector('#input').value;
 	const lastLetter = word.substr(-1);
@@ -20,4 +20,5 @@ btn.addEventListener('enter', () => {
 	else {
 		alert(err);
 	}
+	e.preventDefault();
 });
