@@ -1,8 +1,6 @@
-# ES2020 Tutorial
+### 1. 수업자료
 
-### 1. 강의
-
-- [ZeroCho-ES2020](https://www.youtube.com/watch?v=q3RDTYLIzxo&list=PLcqDmjxt30RuMjo2hbuUmc1xzPoEGnLdz)
+- [pksung1/42FrontEnd](https://github.com/pksung1/42FrontEnd/tree/master/study)
 
 <br>
 
